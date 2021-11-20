@@ -1,0 +1,156 @@
+Uri: https://sdadmoneey.github.io/
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\index.htm
+Content Type: text/html
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/images/favicon.ico
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.sadad.com/Style Library/ar-SA/Themable/Core Styles/controls.css
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\Style Library\ar-SA\Themable\Core Styles\controls.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/Style Library/ar-SA/Core Styles/page-layouts-21.css
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\Style Library\ar-SA\Core Styles\page-layouts-21.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/_layouts/1025/styles/Themable/corev48630.css?rev=q4oC6vgYyMDS%2BypgPPiGcA%3D%3D
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\1025\styles\Themable\corev48630.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/bootstrap-3.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\bootstrap-3.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/multilevel-menu/css/jquery.smartmenus.bootstrap.css
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\multilevel-menu\css\jquery.smartmenus.bootstrap.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/Arabic/css/styles.css
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\Arabic\css\styles.css
+Content Type: text/css
+
+Uri: https://www.sadad.com/ar/Pages/home.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\home.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Personal/Pages/default.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Personal\Pages\default.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Personal/_layouts/Authenticate0f8e.html?Source=%2Far%2FPersonal%2FPages%2FSADADBills.aspx
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Personal\_layouts\Authenticate0f8e.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/en/Pages/home.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\en\Pages\home.html
+Content Type: text/html
+
+Uri: https://twitter.com/SADAD/
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\SADAD\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/user/SADADPaymentSystem/ /
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\user\SADADPaymentSystem\ \index.htm
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/AboutUs.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\AboutUs.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/VMO.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\VMO.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/Values.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\Values.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/MediaCenter/CertificatesandAwards/Pages/default.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\MediaCenter\CertificatesandAwards\Pages\default.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/MediaCenter/e-Newsletters/Pages/default.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\MediaCenter\e-Newsletters\Pages\default.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/MediaCenter/Wewerethere/Pages/default.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\MediaCenter\Wewerethere\Pages\default.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Personal/Pages/SADADBills.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Personal\Pages\SADADBills.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Personal/Pages/PaymentMethods.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Personal\Pages\PaymentMethods.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/Billers.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\Billers.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Business/Pages/SADADBills.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Business\Pages\SADADBills.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Business/Pages/MerchantsJoiningNow.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Business\Pages\MerchantsJoiningNow.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/Banks.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\Banks.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Business/Pages/PaymentMethods.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Business\Pages\PaymentMethods.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/FAQ.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\FAQ.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/MediaCenter/Pages/SADAD-Logo-Guidelines.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\MediaCenter\Pages\SADAD-Logo-Guidelines.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Banks/Pages/SADADBills.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Banks\Pages\SADADBills.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/Disclaimer.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\Disclaimer.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/PrivacyPolicy.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\PrivacyPolicy.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/TermsOfUse.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\TermsOfUse.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/ContactUs.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\ContactUs.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/ar/Pages/Sitemap.html
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\ar\Pages\Sitemap.html
+Content Type: text/html
+
+Uri: https://www.sadad.com/_layouts/images/fgimg.png
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\images\fgimg.png
+Content Type: image/png
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/img/arabic_icon_disabled.png
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\img\arabic_icon_disabled.png
+Content Type: image/png
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/img/english_icon.png
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\img\english_icon.png
+Content Type: image/png
+
+Uri: https://www.sadad.com/_layouts/inc/SADAD.Internet.Portal/img/sadad_logo_ar.png
+File Name: C:\Downloaded Web Sites\sdadmoneey.github.io\_layouts\inc\SADAD.Internet.Portal\img\sadad_logo_ar.png
+Content Type: image/png
+
